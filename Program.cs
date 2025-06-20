@@ -4,6 +4,11 @@ using System.Text.Json.Serialization;
 using WarehouseManagament.Data;
 using WarehouseManagament.Models;
 
+/* 
+ * Todos :
+ *  reconstruct the project stucture to follow the Controller, Repository, Service pattern
+ * 
+ */
 
 var builder = WebApplication.CreateBuilder(args);
 
