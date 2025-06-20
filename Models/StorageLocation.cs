@@ -27,5 +27,7 @@ namespace WarehouseManagament.Models
         public int OccupiedCapacity { get; set; }
 
         public int AvailableCapacity => Capacity - OccupiedCapacity;
+
+        //hello
     }
 }
